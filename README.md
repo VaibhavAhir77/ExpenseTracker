@@ -19,10 +19,10 @@
 
 # 📂 Folder Structure
 - ```src/``` - Contains the main source code
-- ``` components/ ``` - Reusable React components
+- ``` components/ ``` - Reusable React component
 - ```pages/ ```- Pages like Profile, FAQ, etc.
 - ```public/``` - Static files
-- ```Scene/```- Charts, form , dashboard, Accounts
+- ```Scene/```- Charts , dashboard, Accounts
 
 # 🚧 Prerequisites
 - Node.js (latest version recommended)
