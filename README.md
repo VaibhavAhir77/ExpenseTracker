@@ -18,11 +18,11 @@
 - Charts: Navo Charts
 
 # 📂 Folder Structure
-- src/ - Contains the main source code
-- components/ - Reusable React components
-- pages/ - Pages like Profile, FAQ, etc.
-- utils/ - Helper functions (if any)
-- public/ - Static files
+- ```src/``` - Contains the main source code
+- ``` components/ ``` - Reusable React components
+- ```pages/ ```- Pages like Profile, FAQ, etc.
+- ```utils/``` - Helper functions (if any)
+- ```public/``` - Static files
 
 # 🚧 Prerequisites
 - Node.js (latest version recommended)
