@@ -14,15 +14,15 @@
 # 🛠️ Built With
 - Frontend: React.js
 - State Management: React Hooks/Context API
-- Styling: CSS/SCSS (or Tailwind/Material-UI if used)
+- Styling: CSS,Material-UI
 - Charts: Navo Charts
 
 # 📂 Folder Structure
 - ```src/``` - Contains the main source code
 - ``` components/ ``` - Reusable React components
 - ```pages/ ```- Pages like Profile, FAQ, etc.
-- ```utils/``` - Helper functions (if any)
 - ```public/``` - Static files
+- ```Scene/```- Charts, form , dashboard, Accounts
 
 # 🚧 Prerequisites
 - Node.js (latest version recommended)
